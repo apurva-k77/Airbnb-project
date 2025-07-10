@@ -47,7 +47,7 @@ This is a full-stack web application inspired by Airbnb, where users can browse,
    git clone https://github.com/your-username/airbnb-project.git
    cd airbnb-project
 
-2. Install dependencies
+2. Install all dependencies
    ```bash
    npm install
 
