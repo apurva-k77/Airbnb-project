@@ -1,4 +1,4 @@
-# WanderBnB – A Full-Stack Property Rental & Review Platform
+## WanderBnB – A Full-Stack Property Rental & Review Platform
 
 This is a full-stack web application inspired by Airbnb, where users can browse, add, and review listings. It is built using **Node.js**, **Express.js**, **MongoDB Atlas**, and follows the **MVC design pattern** to ensure a modular and maintainable codebase. The application is styled using **Bootstrap** and integrates **Mapbox** for location visualization.
 
